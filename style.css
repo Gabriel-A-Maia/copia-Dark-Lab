@@ -114,6 +114,8 @@ body {
 }
 
 
+
+
 .menu-link {
     margin-right: 15px;
     align-items: center;
@@ -309,4 +311,131 @@ body {
     width: 248px;
     height: 50px;
     background: #ca1a20;
+}
+
+/* ========================= */
+/* RESPONSIVO TABLET */
+/* ========================= */
+
+@media (max-width: 1024px){
+
+.opçoes{
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px;
+    justify-content: center;
+}
+
+.menu{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.input{
+    width: 80%;
+    margin: 10px auto;
+}
+
+.logo-darklab{
+    height: 90px;
+}
+
+.mais-vendios{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+}
+
+/* ========================= */
+/* RESPONSIVO CELULAR */
+/* ========================= */
+
+@media (max-width: 768px){
+
+.cabeçalho{
+    height: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.cabeçalho p{
+    font-size: 12px;
+}
+
+/* MENU */
+
+.opçoes{
+    display: flex;
+    align-items: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.logo-darklab{
+    height: 150px;
+    margin: 10px 0;
+}
+
+.menu{
+    display: flex;
+    gap: 5px;
+}
+
+.menu a{
+    padding: 10px;
+     width: 68px;
+    margin-right: 10px;
+    justify-content: center;
+    display: inline-block;
+}
+
+
+/* INPUT */
+
+.input{
+    width: 70%;
+    height: 45px;
+    margin-top: 10px;
+}
+
+/* ICONES */
+
+#cadastro{
+    height: 60px;
+}
+
+#link-carrino{
+    margin-top: 10px;
+}
+
+/* TITULO */
+
+.produtos-mais-vendidos h2{
+    font-size: 28px;
+    margin-left: 20px;
+}
+
+/* PRODUTOS */
+
+.mais-vendios{
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-produtos-mais-vendidos{
+    width: 90%;
+    margin-left: 0;
+}
+
+.container-produtos-mais-vendidos-menor{
+    width: 90%;
+}
+
+/* BOTÃO */
+
+.container-produtos-mais-vendidos-menor-de-baixo button{
+    width: 90%;
+}
+
 }
