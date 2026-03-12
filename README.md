@@ -1,4 +1,4 @@
-<h1>💊 Dark Lab Suplementos - Clone</h1> 
+<h1> Dark Lab Suplementos - Clone</h1> 
 Projeto desenvolvido com o objetivo de recriar a interface do site da Dark Lab Suplementos, focando em praticar habilidades de desenvolvimento Front-End, como estruturação de layout, estilização e interatividade.
 
 Este projeto faz parte dos meus estudos em programação e foi criado para aprimorar minhas habilidades na construção de interfaces modernas, responsivas e bem organizadas.
@@ -32,4 +32,4 @@ Trabalhar responsividade e organização de código
 <h3> 🔗 Deploy</h3>
 Você pode acessar o projeto aqui:
 
-👉 https://seu-site.vercel.app
+👉  https://gabriel-a-maia.github.io/copia-Dark-Lab/
