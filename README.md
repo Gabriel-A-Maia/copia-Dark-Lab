@@ -33,3 +33,9 @@ Trabalhar responsividade e organização de código
 Você pode acessar o projeto aqui:
 
 👉  https://gabriel-a-maia.github.io/copia-Dark-Lab/
+<br>
+<br>
+<h3>⚠️ Aviso</h3>  
+
+Este projeto foi desenvolvido apenas para fins educacionais e de portfólio.
+Todos os direitos de design e marca pertencem à empresa Dark Lab Suplementos.
